@@ -1,1 +1,2 @@
-# pizzaria
+# Pizzaria
+Crie um programa para controlar os pedidos de uma pizzaria.Um pedido pode ter até duas pizzas e cada pizza pode ter até doissabores. Seu programa deve ter uma estrutura com o nome do cliente, ocódigo do pedido (auto incremental iniciado diariamente no número 101)e o valor final do pedido. Cada pizza pode ter até dois sabores. Cadasabor tem um preço diferenciado (que o próprio atendente do sistemainforma). Você deve usar duas estruturas, uma dentro da outra (uma parapizza e outra para o pedido). Utilize alocação dinâmica e teste com doispedidos. Apresente no final o valor total recebido pela pizzaria.
